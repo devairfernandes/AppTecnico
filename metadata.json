@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NetPulse AI - Advanced Network Intelligence",
+  "description": "A high-performance network diagnostic and optimization suite featuring real-time speed testing, channel analysis, and Gemini-powered infrastructure advisory.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
